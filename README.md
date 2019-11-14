@@ -1,1 +1,1 @@
-# Exercise02XX_ObjectInitialization
+# Exercise02XX Object Initialization
